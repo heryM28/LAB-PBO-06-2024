@@ -1,4 +1,3 @@
-
 // mengimpor kelas-kelas yang diperlukan dari paket Java, yaitu AL, List, dan Scanner. AL digunakan untuk menyimpan daftar produk.
 import java.util.ArrayList;
 import java.util.List;
